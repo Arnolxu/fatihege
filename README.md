@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatihege" alt="fatihege" /></a> </p>
 
-- 🔭 I’m currently working on [Crypon](https://github.com/fatihege/crypon)
+- 🔭 I’m currently working on [Crypon](https://fatihege.github.io/crypon/)
 
 - 🌱 I’m currently learning **PHP, Node.js, React, Angular**
 
