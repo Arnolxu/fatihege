@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/fatihege](https://github.com/fatihege)
 
-- 📝 I regularly write articles on [http://www.teknomo.tk/](http://www.teknomo.tk/)
-
 - 💬 Ask me about **PHP, JavaScript**
 
 - 📫 How to reach me **fatihxege@gmail.com**
