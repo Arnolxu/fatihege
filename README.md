@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatihege" alt="fatihege" /></a> </p>
 
-- 🌱 I’m currently learning **PHP, Node.js, React, Angular**
+- 🌱 I’m currently learning **Node.js, React, Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fatihege](https://github.com/fatihege)
 
