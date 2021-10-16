@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fatihege?tab=repositories](https://github.com/fatihege?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/fatihege](https://github.com/fatihege?tab=repositories)
 
 - 💬 Ask me about **JavaScript, Node.js, Express.js, MongoDB, PHP etc**
 
