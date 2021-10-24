@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatihege" alt="fatihege" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on [Socket.IO Chat](https://github.com/fatihege/socketio-chat)
 
 - 🌱 I’m currently learning **Golang**
@@ -13,7 +11,7 @@
 
 - 💬 Ask me about **JavaScript, Node.js, Express.js, MongoDB, PHP etc**
 
-- 📫 How to reach me **fatihxege@gmail.com**
+- 📫 How to reach me **ifatxh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
