@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/fatihege](https://github.com/fatihege?tab=repositories)
 
-- 💬 Ask me about **JavaScript, Node.js, Express.js, PHP etc...**
+- 💬 Ask me about **JavaScript, Node.js, Express.js, PHP etc**
 
 - 📫 How to reach me **ifatxh@gmail.com**
 
